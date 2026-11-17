@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Ada Lovelace",
+    "dateOfBirth": "1815-12-10",
+    "emailAddresses": [
+      "ada@example.com"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alan Turing",
+    "dateOfBirth": "1912-06-23",
+    "emailAddresses": [
+      "alan@example.com"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "dateOfBirth": "1990-05-20",
+    "emailAddresses": [
+      "john@example.com"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "vinay",
+    "dateOfBirth": "1986-07-04",
+    "emailAddresses": [
+      "vinay.bammidi@gmail.com"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "vinay1",
+    "dateOfBirth": "1986-07-04",
+    "emailAddresses": [
+      "vinay.bammidi@gmail.com"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "vinay2",
+    "dateOfBirth": "1986-07-04",
+    "emailAddresses": [
+      "vinay.bammidi@gmail.com"
+    ]
+  }
+]
